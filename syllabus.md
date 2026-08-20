@@ -1,3 +1,9 @@
+---
+layout: default
+title: MSCBIO2025: Introduction to bioinformatics programming in Python
+description: Course syllabus
+---
+
 # Logistics
 
 ### Lecture
@@ -48,3 +54,5 @@ One major component of the course will involve long-term projects with teams of 
 We will not use AI in the classroom, instead thinking about code on paper, on the board, or in short snippets. Students are free to complete work outside the classroom however they like, with or without AI tools.  
 
 However, grades in this course are based on the ability to **understand**, **justify**, and **explain** the details of a computational analysis in person and without external resources. It is each student's responsibility to ensure that they use AI responsibly to meet these goals.  
+
+**[Return to index](./)**

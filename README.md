@@ -1,7 +1,10 @@
-**[Syllabus](./syllabus.html)**  
+---
+layout: default
+title: MSCBIO2025: Introduction to bioinformatics programming in Python
+description: Fall 2026 homepage
+---
 
-
-Information for the course will be posted here as we progress through the semester.
+## [Syllabus](./syllabus.html)  
 
 ## Sessions
 
