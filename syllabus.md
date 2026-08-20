@@ -1,7 +1,5 @@
 ---
 layout: default
-title: "MSCBIO2025: Introduction to bioinformatics programming in Python"
-description: Course syllabus
 ---
 
 # Logistics

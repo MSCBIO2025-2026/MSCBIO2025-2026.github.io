@@ -1,3 +1,4 @@
+# MSCBIO2025: Introduction to bioinformatics programming in Python
 
 ## [Syllabus](./syllabus.html)  
 
