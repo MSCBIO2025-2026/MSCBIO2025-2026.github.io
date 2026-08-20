@@ -1,7 +1,3 @@
-# MSCBIO 2025: Introduction to bioinformatics programming in Python
-### Fall 2026
-
-
 # Logistics
 
 ### Lecture

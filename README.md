@@ -1,6 +1,4 @@
-# MSCBIO 2025: Introduction to bioinformatics programming in Python
-
-[Syllabus](./syllabus.html)  
+**[Syllabus](./syllabus.html)**  
 
 
 Information for the course will be posted here as we progress through the semester.
@@ -94,4 +92,4 @@ Information for the course will be posted here as we progress through the semest
 
 <!-- **Lecture 22** -- Deep learning - II [[slides](https://mscbio2025-2025.github.io/lectures/Lecture-22-DeepLearning-II-v2.slides.html)] [[notebook](https://mscbio2025-2025.github.io/lectures/Lecture-22-DeepLearning-II-v2.ipynb)] -->
 
-<!-- **Lecture 23** -- Deep learning - III [[slides](https://mscbio2025-2025.github.io/lectures/Lecture-23-DeepLearning-III.slides.html)] [[notebook](https://mscbio2025-2025.github.io/lectures/Lecture-23-DeepLearning-III.ipynb)] --> -->
+<!-- **Lecture 23** -- Deep learning - III [[slides](https://mscbio2025-2025.github.io/lectures/Lecture-23-DeepLearning-III.slides.html)] [[notebook](https://mscbio2025-2025.github.io/lectures/Lecture-23-DeepLearning-III.ipynb)] -->
