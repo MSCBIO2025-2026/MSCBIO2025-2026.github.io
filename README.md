@@ -1,8 +1,8 @@
-# MSCBIO2025: Introduction to bioinformatics programming in Python
+### Course information links
 
-## [Syllabus](./syllabus.html)  
+**[Syllabus](./syllabus.html)**  
 
-## Sessions
+### Sessions
 
 <!-- 08/26 -->
 <!-- **Session 00** -- Introduction to MSCBIO 2025 and setup [[reading](https://kirenz.github.io/codelabs/codelabs/miniforge-setup/#0)] [[slides](https://mscbio2025-2026.github.io/sessions/session-00-introduction.slides.html)] [[notebook](https://mscbio2025-2026.github.io/sessions/session-00-introduction.ipynb)]  -->
