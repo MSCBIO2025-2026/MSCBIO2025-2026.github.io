@@ -4,47 +4,47 @@
 
 ### Sessions
 
-<!-- 08/26 -->
-<!-- **Session 00** -- Introduction to MSCBIO 2025 and setup [[reading](https://kirenz.github.io/codelabs/codelabs/miniforge-setup/#0)] [[slides](https://mscbio2025-2026.github.io/sessions/session-00-introduction.slides.html)] [[notebook](https://mscbio2025-2026.github.io/sessions/session-00-introduction.ipynb)]  -->
+<!-- 08/25 -->
+**Session 0** -- Introduction to the course and Python setup [[reading](https://kirenz.github.io/codelabs/codelabs/miniforge-setup/#0)] [[slides](https://mscbio2025-2026.github.io/sessions/session-00.html)]
 
-<!-- 08/28 --> 
-<!-- **Lecture 02** -- File systems and bash [[reading](https://swcarpentry.github.io/shell-novice/)] [[slides](https://mscbio2025-2025.github.io/lectures/lecture-02-files.slides.html)] [[notebook](https://mscbio2025-2025.github.io/lectures/lecture-02-files.ipynb)] -->
+<!-- 08/27 --> 
+<!-- **Session 01** -- File systems and bash [[reading](https://swcarpentry.github.io/shell-novice/)] [[slides](https://mscbio2025-2025.github.io/lectures/lecture-02-files.slides.html)] [[notebook](https://mscbio2025-2025.github.io/lectures/lecture-02-files.ipynb)] -->
 
-<!-- 09/02 -->
-<!-- **Lecture 03** -- More on the command line [[reading](https://www.freecodecamp.org/news/linux-command-line-tutorial/)] [[slides](https://mscbio2025-2025.github.io/lectures/lecture-03-bash.slides.html)] [[notebook](https://mscbio2025-2025.github.io/lectures/lecture-03-bash.ipynb)] -->
+<!-- 09/01 -->
+<!-- **Session 02** -- More on the command line [[reading](https://www.freecodecamp.org/news/linux-command-line-tutorial/)] [[slides](https://mscbio2025-2025.github.io/lectures/lecture-03-bash.slides.html)] [[notebook](https://mscbio2025-2025.github.io/lectures/lecture-03-bash.ipynb)] -->
 
 <!-- 09/04 -->
-<!-- **Lecture 04** -- Introduction to Python [[reading](https://wiki.python.org/moin/BeginnersGuide/NonProgrammers)] [[slides](https://mscbio2025-2025.github.io/lectures/lecture-04-python.slides.html)] [[notebook](https://mscbio2025-2025.github.io/lectures/lecture-04-python.ipynb)] -->
+<!-- **Session 04** -- Introduction to Python [[reading](https://wiki.python.org/moin/BeginnersGuide/NonProgrammers)] [[slides](https://mscbio2025-2025.github.io/lectures/lecture-04-python.slides.html)] [[notebook](https://mscbio2025-2025.github.io/lectures/lecture-04-python.ipynb)] -->
 
 <!-- 09/09 -->
-<!-- **Lecture 05** -- Data visualization [[reading](https://thepythoncodingbook.com/basics-of-data-visualisation-in-python-using-matplotlib/)] [[slides](https://mscbio2025-2025.github.io/lectures/lecture-05-plot.slides.html)] [[notebook](https://mscbio2025-2025.github.io/lectures/lecture-05-plot.ipynb)] -->
+<!-- **Session 05** -- Data visualization [[reading](https://thepythoncodingbook.com/basics-of-data-visualisation-in-python-using-matplotlib/)] [[slides](https://mscbio2025-2025.github.io/lectures/lecture-05-plot.slides.html)] [[notebook](https://mscbio2025-2025.github.io/lectures/lecture-05-plot.ipynb)] -->
 
 <!-- 09/11 -->
-<!-- **Lecture 06** -- Vectors with numpy [[reading](https://numpy.org/doc/stable/user/absolute_beginners.html)] [[slides](https://mscbio2025-2025.github.io/lectures/lecture-06-numpy.slides.html)] [[notebook](https://mscbio2025-2025.github.io/lectures/lecture-06-numpy.ipynb)] -->
+<!-- **Session 06** -- Vectors with numpy [[reading](https://numpy.org/doc/stable/user/absolute_beginners.html)] [[slides](https://mscbio2025-2025.github.io/lectures/lecture-06-numpy.slides.html)] [[notebook](https://mscbio2025-2025.github.io/lectures/lecture-06-numpy.ipynb)] -->
 
 <!-- 09/16 -->
-<!-- **Lecture 07** -- Differential equation modeling [[reading (introduction)](https://www.math.uwaterloo.ca/~bingalls/MMSB/MMSB_w_solutions.pdf)] [[slides](https://mscbio2025-2025.github.io/lectures/lecture-07-diffeq.slides.html)] [[notebook](https://mscbio2025-2025.github.io/lectures/lecture-07-diffeq.ipynb)] -->
+<!-- **Session 07** -- Differential equation modeling [[reading (introduction)](https://www.math.uwaterloo.ca/~bingalls/MMSB/MMSB_w_solutions.pdf)] [[slides](https://mscbio2025-2025.github.io/lectures/lecture-07-diffeq.slides.html)] [[notebook](https://mscbio2025-2025.github.io/lectures/lecture-07-diffeq.ipynb)] -->
 
 <!-- 09/18 -->
-<!-- **Lecture 08** -- Principles of code design and functions [[reading 1](https://realpython.com/documenting-python-code/)] [[reading 2](https://docs.python.org/3/tutorial/errors.html)]  [[slides](https://mscbio2025-2025.github.io/lectures/lecture-08-code.slides.html)] [[notebook](https://mscbio2025-2025.github.io/lectures/lecture-08-code.ipynb)]  -->
+<!-- **Session 08** -- Principles of code design and functions [[reading 1](https://realpython.com/documenting-python-code/)] [[reading 2](https://docs.python.org/3/tutorial/errors.html)]  [[slides](https://mscbio2025-2025.github.io/lectures/lecture-08-code.slides.html)] [[notebook](https://mscbio2025-2025.github.io/lectures/lecture-08-code.ipynb)]  -->
 
 <!-- 09/23 -->
-<!-- **Lecture 09** -- Function fitting [[reading](https://www.askpython.com/python/examples/curve-fitting-in-python)]  [[slides](https://mscbio2025-2025.github.io/lectures/lecture-09-fitting.slides.html)] [[notebook](https://mscbio2025-2025.github.io/lectures/lecture-09-fitting.ipynb)]  -->
+<!-- **Session 09** -- Function fitting [[reading](https://www.askpython.com/python/examples/curve-fitting-in-python)]  [[slides](https://mscbio2025-2025.github.io/lectures/lecture-09-fitting.slides.html)] [[notebook](https://mscbio2025-2025.github.io/lectures/lecture-09-fitting.ipynb)]  -->
 
 <!--  09/25 -->
-<!-- **Lecture 10** -- Systems biology modeling [[reading](http://bionetgen.org/)] [[materials](https://github.com/jrfaeder/RBM_Intro_BioNetGen)]   -->
+<!-- **Session 10** -- Systems biology modeling [[reading](http://bionetgen.org/)] [[materials](https://github.com/jrfaeder/RBM_Intro_BioNetGen)]   -->
 
 <!-- 09/30 -->
-<!-- **Lecture 11** -- Principles of data analysis and pandas [[reading](https://github.com/swcarpentry/good-enough-practices-in-scientific-computing)]  [[slides](https://mscbio2025-2025.github.io/lectures/lecture-11-pandas.slides.html)] [[notebook](https://mscbio2025-2025.github.io/lectures/lecture-11-pandas.ipynb)]   -->
+<!-- **Session 11** -- Principles of data analysis and pandas [[reading](https://github.com/swcarpentry/good-enough-practices-in-scientific-computing)]  [[slides](https://mscbio2025-2025.github.io/lectures/lecture-11-pandas.slides.html)] [[notebook](https://mscbio2025-2025.github.io/lectures/lecture-11-pandas.ipynb)]   -->
 
 <!-- 10/02 -->
-<!-- **Lecture 12** -- Tabular data with Pandas [[reading](https://aeturrell.github.io/python4DS/data-tidy.html)]  [[slides](https://mscbio2025-2025.github.io/lectures/lecture-12-pandas2.slides.html)] [[notebook](https://mscbio2025-2025.github.io/lectures/lecture-12-pandas2.ipynb)]  -->
+<!-- **Session 12** -- Tabular data with Pandas [[reading](https://aeturrell.github.io/python4DS/data-tidy.html)]  [[slides](https://mscbio2025-2025.github.io/lectures/lecture-12-pandas2.slides.html)] [[notebook](https://mscbio2025-2025.github.io/lectures/lecture-12-pandas2.ipynb)]  -->
 
 <!-- 10/07 -->
-<!-- **Lecture 13** -- Sequence analysis I [[reading](https://biopython-tutorial.readthedocs.io/en/latest/notebooks/02%20-%20Quick%20Start.html)]  [[slides](https://mscbio2025-2025.github.io/lectures/lecture-13-sequence.slides.html)] [[notebook](https://mscbio2025-2025.github.io/lectures/lecture-13-sequence.ipynb)]   -->
+<!-- **Session 13** -- Sequence analysis I [[reading](https://biopython-tutorial.readthedocs.io/en/latest/notebooks/02%20-%20Quick%20Start.html)]  [[slides](https://mscbio2025-2025.github.io/lectures/lecture-13-sequence.slides.html)] [[notebook](https://mscbio2025-2025.github.io/lectures/lecture-13-sequence.ipynb)]   -->
 
 <!-- 10/09 -->
-<!-- **Lecture 14** -- Sequence analysis II [[reading](https://biopython.org/docs/latest/Tutorial/chapter_motifs.html)]   [[slides](https://mscbio2025-2025.github.io/lectures/lecture-14-sequence2.slides.html)] [[notebook](https://mscbio2025-2025.github.io/lectures/lecture-14-sequence2.ipynb)]   -->
+<!-- **Session 14** -- Sequence analysis II [[reading](https://biopython.org/docs/latest/Tutorial/chapter_motifs.html)]   [[slides](https://mscbio2025-2025.github.io/lectures/lecture-14-sequence2.slides.html)] [[notebook](https://mscbio2025-2025.github.io/lectures/lecture-14-sequence2.ipynb)]   -->
 
 <!-- 10/14 -->
 <!-- **Lecture 15** -- Protein dynamics with ProDy [[reading](http://www.bahargroup.org/prody/)]  [[slides](https://mscbio2025-2025.github.io/lectures/lecture-15-prody.slides.html)] [[notebook](https://mscbio2025-2025.github.io/lectures/lecture-15-prody.ipynb)]   -->
