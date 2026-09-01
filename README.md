@@ -7,13 +7,13 @@
 ### Sessions
 
 <!-- 08/25 -->
-**Session 0** -- Introduction to the course and Python setup [[reading](https://kirenz.github.io/codelabs/codelabs/miniforge-setup/#0)] [[slides](https://mscbio2025-2026.github.io/sessions/session-00.html)]  
+**Session 0** -- Introduction to the course and Python setup [[reading](https://kirenz.github.io/codelabs/codelabs/miniforge-setup/#0)] [[slides](https://mscbio2025-2026.github.io/sessions/session-00.html)]
 
 <!-- 08/27 --> 
-**Session 1** -- A sequence as a Python value [[slides](https://mscbio2025-2026.github.io/sessions/session-01.html)] [[notebook](https://mscbio2025-2026.github.io/notebooks/notebook-01.ipynb)]  
+**Session 1** -- A sequence as a Python value [[slides](https://mscbio2025-2026.github.io/sessions/session-01.html)] [[notebook](https://mscbio2025-2026.github.io/notebooks/notebook-01.ipynb)]
 
 <!-- 09/01 -->
-**Session 2** -- Questions about one sequence [[slides](https://mscbio2025-2026.github.io/sessions/session-02.html)] [[notebook](https://mscbio2025-2026.github.io/notebooks/notebook-02.ipynb)]  
+**Session 2** -- Questions about one sequence [[slides](https://mscbio2025-2026.github.io/sessions/session-02.html)] [[notebook](https://mscbio2025-2026.github.io/notebooks/notebook-02.ipynb)]
 
 <!-- 09/04 -->
 <!-- **Session 04** -- Introduction to Python [[reading](https://wiki.python.org/moin/BeginnersGuide/NonProgrammers)] [[slides](https://mscbio2025-2026.github.io/lectures/lecture-04-python.slides.html)] [[notebook](https://mscbio2025-2026.github.io/lectures/lecture-04-python.ipynb)] -->
