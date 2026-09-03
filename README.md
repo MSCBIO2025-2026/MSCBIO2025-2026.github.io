@@ -15,8 +15,8 @@
 <!-- 09/01 -->
 **Session 2** -- Questions about one sequence [[slides](https://mscbio2025-2026.github.io/sessions/session-02.html)] [[notebook](https://mscbio2025-2026.github.io/notebooks/notebook-02.ipynb)]
 
-<!-- 09/04 -->
-<!-- **Session 04** -- Introduction to Python [[reading](https://wiki.python.org/moin/BeginnersGuide/NonProgrammers)] [[slides](https://mscbio2025-2026.github.io/lectures/lecture-04-python.slides.html)] [[notebook](https://mscbio2025-2026.github.io/lectures/lecture-04-python.ipynb)] -->
+<!-- 09/03 -->
+**Session 3** -- Making decisions [[slides](https://mscbio2025-2026.github.io/sessions/session-03.html)] [[notebook](https://mscbio2025-2026.github.io/notebooks/notebook-03.ipynb)]
 
 <!-- 09/09 -->
 <!-- **Session 05** -- Data visualization [[reading](https://thepythoncodingbook.com/basics-of-data-visualisation-in-python-using-matplotlib/)] [[slides](https://mscbio2025-2026.github.io/lectures/lecture-05-plot.slides.html)] [[notebook](https://mscbio2025-2026.github.io/lectures/lecture-05-plot.ipynb)] -->
