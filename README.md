@@ -18,14 +18,14 @@
 <!-- 09/03 -->
 **Session 3** -- Making decisions [[slides](https://mscbio2025-2026.github.io/sessions/session-03.html)] [[notebook](https://mscbio2025-2026.github.io/notebooks/notebook-03.ipynb)]
 
-<!-- 09/09 -->
-<!-- **Session 05** -- Data visualization [[reading](https://thepythoncodingbook.com/basics-of-data-visualisation-in-python-using-matplotlib/)] [[slides](https://mscbio2025-2026.github.io/lectures/lecture-05-plot.slides.html)] [[notebook](https://mscbio2025-2026.github.io/lectures/lecture-05-plot.ipynb)] -->
+<!-- 09/08 -->
+**Session 4** -- Repeating an operation [[slides](https://mscbio2025-2026.github.io/sessions/session-04.html)] [[notebook](https://mscbio2025-2026.github.io/notebooks/notebook-04.ipynb)]
 
-<!-- 09/11 -->
-<!-- **Session 06** -- Vectors with numpy [[reading](https://numpy.org/doc/stable/user/absolute_beginners.html)] [[slides](https://mscbio2025-2026.github.io/lectures/lecture-06-numpy.slides.html)] [[notebook](https://mscbio2025-2026.github.io/lectures/lecture-06-numpy.ipynb)] -->
+<!-- 09/10 -->
+<!-- **Session 5** -- Counting and constructing [[slides](https://mscbio2025-2026.github.io/sessions/session-05.html)] [[notebook](https://mscbio2025-2026.github.io/notebooks/notebook-05.ipynb)] -->
 
-<!-- 09/16 -->
-<!-- **Session 07** -- Differential equation modeling [[reading (introduction)](https://www.math.uwaterloo.ca/~bingalls/MMSB/MMSB_w_solutions.pdf)] [[slides](https://mscbio2025-2026.github.io/lectures/lecture-07-diffeq.slides.html)] [[notebook](https://mscbio2025-2026.github.io/lectures/lecture-07-diffeq.ipynb)] -->
+<!-- 09/15 -->
+<!-- **Session 6** -- Defining functions [[slides](https://mscbio2025-2026.github.io/sessions/session-06.html)] [[notebook](https://mscbio2025-2026.github.io/notebooks/notebook-06.ipynb)] -->
 
 <!-- 09/18 -->
 <!-- **Session 08** -- Principles of code design and functions [[reading 1](https://realpython.com/documenting-python-code/)] [[reading 2](https://docs.python.org/3/tutorial/errors.html)]  [[slides](https://mscbio2025-2026.github.io/lectures/lecture-08-code.slides.html)] [[notebook](https://mscbio2025-2026.github.io/lectures/lecture-08-code.ipynb)]  -->
