@@ -22,7 +22,7 @@
 **Session 4** -- Repeating an operation [[slides](https://mscbio2025-2026.github.io/sessions/session-04.html)] [[notebook](https://mscbio2025-2026.github.io/notebooks/notebook-04.ipynb)]
 
 <!-- 09/10 -->
-<!-- **Session 5** -- Counting and constructing [[slides](https://mscbio2025-2026.github.io/sessions/session-05.html)] [[notebook](https://mscbio2025-2026.github.io/notebooks/notebook-05.ipynb)] -->
+**Session 5** -- Counting and constructing [[slides](https://mscbio2025-2026.github.io/sessions/session-05.html)] [[notebook](https://mscbio2025-2026.github.io/notebooks/notebook-05.ipynb)]
 
 <!-- 09/15 -->
 <!-- **Session 6** -- Defining functions [[slides](https://mscbio2025-2026.github.io/sessions/session-06.html)] [[notebook](https://mscbio2025-2026.github.io/notebooks/notebook-06.ipynb)] -->

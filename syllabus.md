@@ -23,7 +23,7 @@ gurmert@pitt.edu
 ### Teaching assistant
 Shaila Afrin  
 MSA189@pitt.edu  
-Office hours:  
+Office hours: Tuesdays 11 am - 12 pm, Thursdays 1:30 - 2:30 pm   
 
 
 # Course summary
