@@ -25,7 +25,7 @@
 **Session 5** -- Counting and constructing [[slides](https://mscbio2025-2026.github.io/sessions/session-05.html)] [[notebook](https://mscbio2025-2026.github.io/notebooks/notebook-05.ipynb)]
 
 <!-- 09/15 -->
-<!-- **Session 6** -- Defining functions [[slides](https://mscbio2025-2026.github.io/sessions/session-06.html)] [[notebook](https://mscbio2025-2026.github.io/notebooks/notebook-06.ipynb)] -->
+**Session 6** -- Defining functions [[slides](https://mscbio2025-2026.github.io/sessions/session-06.html)] [[notebook](https://mscbio2025-2026.github.io/notebooks/notebook-06.ipynb)]
 
 <!-- 09/18 -->
 <!-- **Session 08** -- Principles of code design and functions [[reading 1](https://realpython.com/documenting-python-code/)] [[reading 2](https://docs.python.org/3/tutorial/errors.html)]  [[slides](https://mscbio2025-2026.github.io/lectures/lecture-08-code.slides.html)] [[notebook](https://mscbio2025-2026.github.io/lectures/lecture-08-code.ipynb)]  -->
