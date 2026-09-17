@@ -2,7 +2,7 @@
 
 **[Syllabus](./syllabus.html)**  
 
-<!-- **[Project 1: PTEN variant abundance](./project-1.html)** -->
+**[Project 1: PTEN variant abundance](./project-1.html)**
 
 <!-- shell referece [[reading](https://swcarpentry.github.io/shell-novice/)] -->
 
