@@ -19,20 +19,20 @@ The project spans six classes. The first is a warmup lecture, ending with a codi
 In Classes 2–5, most of our time will be devoted to discussing your work, asking questions, and planning the next analysis. Sometimes two teams will meet to present results and compare approaches; at other times, you will work within your own team. Bring your code, results, and questions, including things that did not work as expected.
 
 1. **Warmup: from an experiment to a table.** Introduction to PTEN and VAMP-seq, principles of storing and analyzing data, and demonstrations of tabular analysis with pandas. **After class:** work with synthetic sequencing counts from sorted abundance bins to calculate and check simple abundance scores.
-2. **Discuss the toy analysis; begin the real data.** Compare scoring choices and results, then introduce files, folders, and project organization. **After class:** organize and inspect the PTEN datasets, checking variant labels, controls, missing values, and replicate measurements.
+<!-- 2. **Discuss the toy analysis; begin the real data.** Compare scoring choices and results, then introduce files, folders, and project organization. **After class:** organize and inspect the PTEN datasets, checking variant labels, controls, missing values, and replicate measurements.
 3. **Discuss the data audit; look for patterns.** Compare checks and decide what can be summarized meaningfully. **After class:** summarize abundance by position and protein region, make coverage and abundance displays, and develop a provisional biological claim.
 4. **Discuss the patterns; test the claim.** Examine the evidence and the analysis choices behind it. **After class:** change one inclusion rule, compare its effect on the same outcome, and independently reproduce another team's result.
 5. **Discuss robustness; plan an extension.** Resolve remaining issues in the core analysis and choose a focused new question. **After class:** carry out a small extension in a direction of your team's choice and prepare a brief presentation.
-6. **Present your extension.** Explain your question, approach, evidence, and limitations, and discuss what you learned with the class.
+6. **Present your extension.** Explain your question, approach, evidence, and limitations, and discuss what you learned with the class. -->
 
 # Team roles
 
-Each team uses four roles. Rotate roles at the start of Classes 3 and 5 so that you practice different parts of the work.
+Each team uses four roles. Rotate roles at the start of Session 4 so that you practice different parts of the work.
 
 - **Biological lead:** keeps the biological question clear and checks that interpretations fit what the assay measures.
 - **Computational designer:** helps turn the question into understandable analysis steps, data representations, and code.
-- **Verifier:** checks assumptions, filters, denominators, and results using independent calculations or tests.
-- **Integrator/explainer:** keeps the team's files and records consistent, combines contributions, and helps everyone prepare to explain the analysis.
+- **Verifier:** checks assumptions and results using independent calculations or tests.
+- **Integrator:** keeps the team's files and records consistent, combines contributions, and helps everyone prepare to explain the analysis.
 
 These roles assign responsibility without dividing the project into isolated pieces. Everyone should contribute to coding and review, understand the full analysis, and be able to explain the team's decisions and results.
 
@@ -40,8 +40,7 @@ These roles assign responsibility without dividing the project into isolated pie
 
 ### Warmup and first assignment
 
-- [Plant measurements](./data/project-1/examples/plant-measurements.csv) — a small table for the pandas demonstrations.
-- [Toy VAMP-seq bin counts](./data/project-1/toy_vampseq_bin_counts.csv) — an artificial dataset for the first team assignment. These counts are invented for teaching and are not experimental PTEN measurements.
+- [Toy VAMP-seq bin counts](./data/project-1/examples/toy_vampseq_bin_counts.csv) — an artificial dataset for the first team assignment. These counts are invented for teaching and are not experimental PTEN measurements.
 
 ### Real PTEN data
 
@@ -51,8 +50,8 @@ These roles assign responsibility without dividing the project into isolated pie
 - [PTEN region annotations](./data/project-1/derived/pten-region-annotations.csv) — coordinates for summarizing measurements across protein regions.
 - [Small preview table](./data/project-1/derived/pten-teaching-examples.csv) — a few example records for inspecting the real-data format.
 
-The real abundance scores are already normalized; do not apply the toy scoring procedure to them. Here, the `raw/` folder holds unchanged published score files, not sequencing reads. Keep original downloads unchanged and save your generated tables and figures separately.
+The real abundance scores are already normalized. Here, the `raw/` folder holds unchanged published score files, not sequencing reads. Keep original downloads unchanged and save your generated tables and figures separately.
 
-We use a fixed course snapshot from [MaveDB](https://www.mavedb.org/score-sets/urn%3Amavedb%3A00000013-a-1). [Source metadata](./data/project-1/raw/mavedb-00000013-a-1-metadata.json) and a [data manifest](./data/project-1/manifest.json) record its origin and the preparation of the teaching files. Use the downloads above so that all teams work from the same version.
+We use a fixed course snapshot from [MaveDB](https://www.mavedb.org/score-sets/urn%3Amavedb%3A00000013-a-1). [Source metadata](./data/project-1/raw/mavedb-00000013-a-1-metadata.json) and a [data manifest](./data/project-1/manifest.json) record its origin and the preparation of the files. 
 
 **[Return to index](./)**
