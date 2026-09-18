@@ -29,8 +29,8 @@
 <!-- 09/15 -->
 **Session 6** -- Defining functions [[slides](https://mscbio2025-2026.github.io/sessions/session-06.html)] [[notebook](https://mscbio2025-2026.github.io/notebooks/notebook-06.ipynb)]
 
-<!-- 09/18 -->
-<!-- **Session 08** -- Principles of code design and functions [[reading 1](https://realpython.com/documenting-python-code/)] [[reading 2](https://docs.python.org/3/tutorial/errors.html)]  [[slides](https://mscbio2025-2026.github.io/lectures/lecture-08-code.slides.html)] [[notebook](https://mscbio2025-2026.github.io/lectures/lecture-08-code.ipynb)]  -->
+<!-- 09/17 -->
+**Project 1, Session 1** -- Multiplex assays of variant effect [[slides](https://mscbio2025-2026.github.io/sessions/project-01-session-01.html)] 
 
 <!-- 09/23 -->
 <!-- **Session 09** -- Function fitting [[reading](https://www.askpython.com/python/examples/curve-fitting-in-python)]  [[slides](https://mscbio2025-2026.github.io/lectures/lecture-09-fitting.slides.html)] [[notebook](https://mscbio2025-2026.github.io/lectures/lecture-09-fitting.ipynb)]  -->
