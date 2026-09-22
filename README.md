@@ -32,8 +32,9 @@
 <!-- 09/17 -->
 **Project 1, Session 1** -- Multiplex assays of variant effect [[slides](https://mscbio2025-2026.github.io/sessions/project-01-session-01.html)] 
 
-<!-- 09/23 -->
-<!-- **Session 09** -- Function fitting [[reading](https://www.askpython.com/python/examples/curve-fitting-in-python)]  [[slides](https://mscbio2025-2026.github.io/lectures/lecture-09-fitting.slides.html)] [[notebook](https://mscbio2025-2026.github.io/lectures/lecture-09-fitting.ipynb)]  -->
+<!-- 09/22 -->
+**Project 1, Session 2** -- Working with data [[slides](https://mscbio2025-2026.github.io/sessions/project-01-session-02.html)] 
+
 
 <!--  09/25 -->
 <!-- **Session 10** -- Systems biology modeling [[reading](http://bionetgen.org/)] [[materials](https://github.com/jrfaeder/RBM_Intro_BioNetGen)]   -->
