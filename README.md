@@ -35,18 +35,17 @@
 <!-- 09/22 -->
 **Project 1, Session 2** -- Working with data [[slides](https://mscbio2025-2026.github.io/sessions/project-01-session-02.html)] 
 
+<!-- 09/24 -->
+<!-- **Project 1, Session 3** -- Data storage and reproducibility [[slides](https://mscbio2025-2026.github.io/sessions/project-01-session-03.html)]  -->
 
-<!--  09/25 -->
-<!-- **Session 10** -- Systems biology modeling [[reading](http://bionetgen.org/)] [[materials](https://github.com/jrfaeder/RBM_Intro_BioNetGen)]   -->
+<!-- 09/29 -->
+<!-- **Project 1, Session 4** -- Data visualization I: visual style [[slides](https://mscbio2025-2026.github.io/sessions/project-01-session-04.html)]    -->
 
-<!-- 09/30 -->
-<!-- **Session 11** -- Principles of data analysis and pandas [[reading](https://github.com/swcarpentry/good-enough-practices-in-scientific-computing)]  [[slides](https://mscbio2025-2026.github.io/lectures/lecture-11-pandas.slides.html)] [[notebook](https://mscbio2025-2026.github.io/lectures/lecture-11-pandas.ipynb)]   -->
+<!-- 10/01 -->
+<!-- **Project 1, Session 5** -- Data visualization II: quantitative representations [[slides](https://mscbio2025-2026.github.io/sessions/project-01-session-05.html)]   -->
 
-<!-- 10/02 -->
-<!-- **Session 12** -- Tabular data with Pandas [[reading](https://aeturrell.github.io/python4DS/data-tidy.html)]  [[slides](https://mscbio2025-2026.github.io/lectures/lecture-12-pandas2.slides.html)] [[notebook](https://mscbio2025-2026.github.io/lectures/lecture-12-pandas2.ipynb)]  -->
-
-<!-- 10/07 -->
-<!-- **Session 13** -- Sequence analysis I [[reading](https://biopython-tutorial.readthedocs.io/en/latest/notebooks/02%20-%20Quick%20Start.html)]  [[slides](https://mscbio2025-2026.github.io/lectures/lecture-13-sequence.slides.html)] [[notebook](https://mscbio2025-2026.github.io/lectures/lecture-13-sequence.ipynb)]   -->
+<!-- 10/06 -->
+<!-- **Project 1, Session 6** -- PTEN presentations [[slides](https://mscbio2025-2026.github.io/sessions/project-01-session-06.html)]   -->
 
 <!-- 10/09 -->
 <!-- **Session 14** -- Sequence analysis II [[reading](https://biopython.org/docs/latest/Tutorial/chapter_motifs.html)]   [[slides](https://mscbio2025-2026.github.io/lectures/lecture-14-sequence2.slides.html)] [[notebook](https://mscbio2025-2026.github.io/lectures/lecture-14-sequence2.ipynb)]   -->
