@@ -36,7 +36,7 @@
 **Project 1, Session 2** -- Working with data [[slides](https://mscbio2025-2026.github.io/sessions/project-01-session-02.html)] 
 
 <!-- 09/24 -->
-<!-- **Project 1, Session 3** -- Data storage and reproducibility [[slides](https://mscbio2025-2026.github.io/sessions/project-01-session-03.html)]  -->
+**Project 1, Session 3** -- Data storage and reproducibility [[slides](https://mscbio2025-2026.github.io/sessions/project-01-session-03.html)] 
 
 <!-- 09/29 -->
 <!-- **Project 1, Session 4** -- Data visualization I: visual style [[slides](https://mscbio2025-2026.github.io/sessions/project-01-session-04.html)]    -->
