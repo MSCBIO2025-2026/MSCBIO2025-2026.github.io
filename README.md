@@ -45,7 +45,7 @@
 **Project 1, Session 5** -- Data visualization II: quantitative representations [[slides](https://mscbio2025-2026.github.io/sessions/project-01-session-05.html)]  
 
 <!-- 10/06 -->
-<!-- **Project 1, Session 6** -- PTEN presentations [[slides](https://mscbio2025-2026.github.io/sessions/project-01-session-06.html)]   -->
+**Project 1, Session 6** -- PTEN presentations [[slides](https://mscbio2025-2026.github.io/sessions/project-01-session-06.html)]  
 
 <!-- 10/09 -->
 <!-- **Session 14** -- Sequence analysis II [[reading](https://biopython.org/docs/latest/Tutorial/chapter_motifs.html)]   [[slides](https://mscbio2025-2026.github.io/lectures/lecture-14-sequence2.slides.html)] [[notebook](https://mscbio2025-2026.github.io/lectures/lecture-14-sequence2.ipynb)]   -->
