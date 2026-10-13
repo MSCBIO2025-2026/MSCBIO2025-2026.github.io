@@ -54,4 +54,8 @@ The real abundance scores are already normalized. Here, the `raw/` folder holds 
 
 We use a fixed course snapshot from [MaveDB](https://www.mavedb.org/score-sets/urn%3Amavedb%3A00000013-a-1). [Source metadata](./data/project-1/raw/mavedb-00000013-a-1-metadata.json) and a [data manifest](./data/project-1/manifest.json) record its origin and the preparation of the files. 
 
+# Post-project update
+
+A [recent paper](https://www.cell.com/cell/fulltext/S0092-8674(26)00466-6) introduced a new approach, variant in situ sequencing (VIS-seq), to measure the effects of mutations on molecular and cellular phenotypes, including changes in protein localization, with PTEN used as one example. 
+
 **[Return to index](./)**
