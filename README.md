@@ -48,7 +48,7 @@
 **Project 1, Session 6** -- PTEN presentations [[slides](https://mscbio2025-2026.github.io/sessions/project-01-session-06.html)]  
 
 <!-- 10/09 -->
-<!-- **Session 14** -- Sequence analysis II [[reading](https://biopython.org/docs/latest/Tutorial/chapter_motifs.html)]   [[slides](https://mscbio2025-2026.github.io/lectures/lecture-14-sequence2.slides.html)] [[notebook](https://mscbio2025-2026.github.io/lectures/lecture-14-sequence2.ipynb)]   -->
+**Interlude** -- Systems biology modeling I & II [[repository](https://github.com/jrfaeder/RBM_Intro_BioNetGen)]   
 
 <!-- 10/14 -->
 <!-- **Lecture 15** -- Protein dynamics with ProDy [[reading](http://www.bahargroup.org/prody/)]  [[slides](https://mscbio2025-2026.github.io/lectures/lecture-15-prody.slides.html)] [[notebook](https://mscbio2025-2026.github.io/lectures/lecture-15-prody.ipynb)]   -->
